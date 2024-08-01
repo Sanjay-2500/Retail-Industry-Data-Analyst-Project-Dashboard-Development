@@ -1,4 +1,4 @@
-# Retail-Industry-Data-Analyst-Project-Dashboard-Development
+# Retail Sales Analytics
 
 
 Retail Sales Analytics Summary
